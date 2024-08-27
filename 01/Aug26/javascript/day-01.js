@@ -26,7 +26,7 @@ var buah = "jeruk"; //absoulete variable meniban value yang lama
 let pakaian = "celana"; // update data variable tanpa menimpa variable
 const motor = "suzuki"; // data tidak bisa dirubah (constant variable)
 const space =" ";
-console.log(buah+space+pakaian+space+motor+namaBelakang);
+console.log(buah+space+pakaian+space+motor+space+namaBelakang);
 
 //Variable Date Type
 //Primitive (String, Number & Digit, Boolean, Null, and Undifine)
